@@ -1,12 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
-
-/*
- * File: main.h
- * Auth: Daniel
- * Desc: Header file containing prototypes for all functions
- * used in the 0x04-more_functions_nested_loops directory.
- */
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 int _isupper(int c);
